@@ -1,2 +1,2 @@
-# What is the Psycho virus?
+# Psycho virus?
 it's just a small gdi malware
