@@ -1,4 +1,7 @@
-# Psycho virus?
-it's just a small gdi malware
+# Warning. This Repo is been deleted.
 
-***Please do not change code***
+# This repo was skidded and i did just uploaded it.
+
+# No more project File Exists, No more exe file exists.
+
+# This repo will archive in few days
