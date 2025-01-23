@@ -1,6 +1,6 @@
 # Warning: This Repo has been deleted. You are looking at a deleted repo.
 
- This repo was contained skidded and I did just uploaded it.
+ This repo contained skidded code, and I just added few code and uploaded it.
 
  There are no more project files or executable (EXE) files.
 
