@@ -1,4 +1,4 @@
-# Warning. This Repo has been deleted. You are looking at a deleted repo.
+# Warning: This Repo has been deleted. You are looking at a deleted repo.
 
  This repo was contained skidded and I did just uploaded it.
 
